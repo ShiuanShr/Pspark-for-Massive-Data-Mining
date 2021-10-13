@@ -1,6 +1,6 @@
 # Pspark-for-Massive-Data-Mining
 For whom may insterested in these topic, "Mining Massive Datasets", it's the code record projects.
-The part of code have evaluated by the Prof. Wang ( Jia-Shung Wang) in Natiinal TsingHua University. And I have corrected the error or make some improvement to my original code, whcih make them much more reliable. 
+The part of code have evaluated by the Prof. Wang ( Jia-Shung Wang) in Natiinal TsingHua University. And I have corrected the error or make some improvement to my original code, which make them much more reliable. 
 If you want to have any online learning resource, kindly looking for the same course name in the MOOCS platform of Stanford.
 Here is the link to the online course hold by Prof Jure Leskovec , Prof Jeffrey Ullman, & Anand Rajaraman. URL:  https://www.edx.org/course/mining-massive-datasets
 
