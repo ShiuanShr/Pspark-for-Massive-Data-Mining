@@ -1,7 +1,6 @@
-本專案目標為
+專案目標:
 
 1. 完全使用MapReduce方式，並完全使用使用底層資料結構RDD自行搭建算法，在不使用外部Package前提，撰寫推薦系統，以達技術上創新與客製化地解決問題。
-
 
 2. 建立item- based recommendation，並進行演算法設計- BaseLine Redefinition
 
@@ -10,7 +9,7 @@
 
 (3-1) 本專案為Mining of Massive Data 技術應用之一，可解決實務上巨量數據、稀疏(Sparse)之情境下，針對data streaming 去做推薦系統與預測使用者評分。
 
-(3-2) 因為指使用底層架構與資料結構，並未使用外來package與model- based算法，該算法設計與其他算法具有高度的擴充性、延展。
+(3-2) 因為指使用底層架構與資料結構，並未使用外來package與model- based算法，該算法設計與其他算法具有高度的擴充性、延展性。
 
 (3-3) 為item- based recommendation 設計，此外，達成技術之創新與自行定義算法的附加優勢。
 
